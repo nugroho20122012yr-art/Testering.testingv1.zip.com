@@ -1,0 +1,6 @@
+{
+  "name": "CID•AI",
+  "description": "Convert images into gorgeous hand-drawn crayon style drawings instantly and infinitely with 9 custom colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
